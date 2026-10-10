@@ -1,0 +1,22 @@
+Age: 78 years
+Gender: 1 code
+Hour: 118 hours
+HR: 105.5 beats/min
+O2Sat: 93 %
+Temp: 38.8 C
+SBP: 98 mmHg
+MAP: 67 mmHg
+DBP: 52 mmHg
+Resp: 28 breaths/min
+FiO2: 0.8 fraction
+pH: 7.31 pH
+PaCO2: 38 mmHg
+SaO2: 93 %
+BUN: 79 mg/dL
+Creatinine: 2.5 mg/dL
+WBC: 30.3 10^3/uL
+Lactate: 3.8 mmol/L
+Platelets: 110 10^3/uL
+Hgb: 11.7 g/dL
+Hct: 33.4 %
+

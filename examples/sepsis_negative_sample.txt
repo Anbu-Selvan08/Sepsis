@@ -1,0 +1,22 @@
+Age: 54 years
+Gender: 1 code
+Hour: 12 hours
+HR: 72 beats/min
+O2Sat: 98 %
+Temp: 36.8 C
+SBP: 120 mmHg
+MAP: 85 mmHg
+DBP: 75 mmHg
+Resp: 16 breaths/min
+FiO2: 0.21 fraction
+pH: 7.4 pH
+PaCO2: 40 mmHg
+SaO2: 98 %
+BUN: 15 mg/dL
+Creatinine: 0.9 mg/dL
+WBC: 7.5 10^3/uL
+Lactate: 1.1 mmol/L
+Platelets: 250 10^3/uL
+Hgb: 14 g/dL
+Hct: 42 %
+

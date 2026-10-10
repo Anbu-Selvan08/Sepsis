@@ -1,0 +1,42 @@
+{
+  "features": [
+    "Age",
+    "Gender",
+    "Hour",
+    "HR",
+    "O2Sat",
+    "Temp",
+    "SBP",
+    "MAP",
+    "DBP",
+    "Resp",
+    "FiO2",
+    "pH",
+    "PaCO2",
+    "SaO2",
+    "BUN",
+    "Creatinine",
+    "WBC",
+    "Lactate",
+    "Platelets",
+    "Hgb",
+    "Hct"
+  ],
+  "target": "SepsisLabel",
+  "created_at": "2026-10-09T09:25:32.801634+00:00",
+  "dataset_sha256": "dcd3d7c12788f7fe4633b88138e2b7d5ee6c188e8ff982d12be772c8f293eaec",
+  "records": 50015,
+  "patients": 1313,
+  "test_size": 0.2,
+  "random_state": 42,
+  "units_source": "PhysioNet-style schema; verify source data dictionary before other datasets",
+  "versions": {
+    "python": "3.12.15",
+    "scikit-learn": "1.8.0",
+    "imbalanced-learn": "0.14.2"
+  },
+  "artifact_sha256": {
+    "random_forest.joblib": "5b1f3280691b1544640739767014a2f0a6d435006d68dae4cfb0ba89bfb4a071",
+    "imputer.joblib": "642f886962effe1c8d84daacd45f431b266bf7ee26073d697539f734c92a9e49"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source_records": 546123,
+  "source_patients": 14057,
+  "selected_records": 50015,
+  "selected_patients": 1313,
+  "selection": "Seed 42 random patient order, nearest whole-patient prefix to 50000 records",
+  "target_counts": {
+    "0.0": 48951,
+    "1.0": 1064
+  }
+}

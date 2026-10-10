@@ -1,0 +1,24 @@
+{
+  "Age": 78,
+  "Gender": 1,
+  "Hour": 118,
+  "HR": 105.5,
+  "O2Sat": 93,
+  "Temp": 38.8,
+  "SBP": 98,
+  "MAP": 67,
+  "DBP": 52,
+  "Resp": 28,
+  "FiO2": 0.8,
+  "pH": 7.31,
+  "PaCO2": 38,
+  "SaO2": 93,
+  "BUN": 79,
+  "Creatinine": 2.5,
+  "WBC": 30.3,
+  "Lactate": 3.8,
+  "Platelets": 110,
+  "Hgb": 11.7,
+  "Hct": 33.4
+}
+
