@@ -15,7 +15,7 @@ The project-report document itself was not attached. Implementation follows the 
 Use **Python 3.12** (tested), a virtual environment, and the pinned dependencies. Run commands from the extracted `Sepsis Scope` directory.
 
 ```bash
-cd /Users/anbu/Downloads/Sepsis Scope
+cd /*/Sepsis Scope
 python3.12 -m venv .venv
 source .venv/bin/activate
 python --version
